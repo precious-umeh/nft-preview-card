@@ -1,0 +1,11 @@
+/* 350px */
+@media (max-width: 21.9em) {
+  html {
+    font-size: 56.2%;
+  }
+
+  .container {
+    width: 100%;
+    margin: 10rem 1.2rem;
+  }
+}
